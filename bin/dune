@@ -1,0 +1,4 @@
+(executable
+ (public_name boj_ml)
+ (name main)
+ (libraries boj_ml))
